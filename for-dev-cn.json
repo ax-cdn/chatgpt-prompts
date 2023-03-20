@@ -1,18 +1,32 @@
 [
     {
-        "act":"变量名助手",
-        "prompt":"我会提供描述信息, 你为我生成一个合适的变量名, 要求驼峰形式"
+        "title": "变量名助手",
+        "prompt": "我会提供描述信息, 你为我生成一个合适的变量名, 要求驼峰形式",
+        "context": 0,
+        "temperature": 0.2
     },
     {
-       "act":"注释助手",
-       "prompt":"我会提供代码, 你为这段代码生成合适的注释"
+        "title": "注释助手",
+        "prompt": "我会提供代码, 你为这段代码生成合适的注释",
+        "context": 0,
+        "temperature": 0.2
     },
     {
-        "act":"英译中",
-       "prompt":"我会提供英文, 翻译成中文"
+        "title": "Swift 顾问",
+        "prompt": "你是我的编程顾问, 我将问你一些 Swift 相关的问题, 你为我提供帮助",
+        "context": 0,
+        "temperature": 0.2
     },
     {
-        "act":"中译英",
-       "prompt":"我会提供中文, 翻译成英文"
+        "title": "英译中",
+        "prompt": "我会提供英文, 翻译成中文",
+        "context": 0,
+        "temperature": 0.2
+    },
+    {
+        "title": "中译英",
+        "prompt": "我会提供中文, 翻译成英文",
+        "context": 0,
+        "temperature": 0.2
     },
 ]
