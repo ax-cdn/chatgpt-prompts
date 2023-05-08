@@ -1,0 +1,6 @@
+[
+    {"name": "中文集合", "url": "https://raw.githubusercontent.com/PlexPt/awesome-chatgpt-prompts-zh/main/prompts-zh.json" },
+    {"name": "英文集合", "url": "https://raw.githubusercontent.com/AxApp/awesome-chatgpt-prompts/main/prompts.json" },
+    {"name": "作者自用", "url": "https://raw.githubusercontent.com/ax-cdn/chatgpt-prompts/main/for-dev-cn.json" }
+    
+]
